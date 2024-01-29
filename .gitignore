@@ -3,3 +3,5 @@
 /parsedmarc/GeoLite2-Country*
 /elastic_data/
 parsedmarc.ini
+
+.DS_Store
